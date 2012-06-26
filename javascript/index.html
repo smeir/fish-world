@@ -1,0 +1,42 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+    <title>Fishworld HTML5</title>
+    <script type="text/javascript" src="highscore.js"></script>
+    <script type="text/javascript" src="fish.js"></script>
+    <script type="text/javascript" src="fishworld.js"></script>    
+    <style type="text/css">
+        body{
+           /* background-color: rgb(0,0,80);*/
+
+/*	  background-image: url(http://farm4.staticflickr.com/3623/3489794003_98824a4d7b_b_d.jpg);*/
+	  background-size: 100%;
+           color:white;
+        }
+        canvas{
+            top:50px;
+            cursor:crosshair;
+            position:relative;
+
+            -moz-border-radius: 15px;
+            -webkit-border-radius: 15px;
+            border-radius:15px;
+
+            border: 15px solid black;
+
+            -moz-box-shadow: 0 0 5px 5px rgb(0,0,100);
+            -webkit-box-shadow: 0 0 5px 5px rgb(0,0,100);
+            box-shadow: 0 0 5px 5px rgb(0,0,100);
+        }
+    </style>
+</head>
+
+<body onload="FishWorld.init();">
+<center>
+    <canvas  id="canvasDB" width="640" height="400">
+        <p>Sorry, but your browser does not support the canvas element.<br/> Please use a modern browser: opera, firefox, safari, chrome...</p>
+    </canvas>
+</center>
+</body>
+</html>

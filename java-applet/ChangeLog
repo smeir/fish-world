@@ -1,0 +1,14 @@
+1.2
+ - highscore table (local, not saved)
+ - added dynamite
+ - minor fixes, code cleanups and doc updates
+
+1.1
+ - progress bar while loading
+ - better thread handling (start/stop)
+ - smaller graphics (by palette optimization)
+ - code cleanups and documentation
+
+1.0
+ - first public release
+
