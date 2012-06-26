@@ -27,7 +27,7 @@ JavaScript/Canvas Version
 
 Screenshot
 ----------
-![](/smeir/FishWorld/screen.png)
+![](https://github.com/smeir/FishWorld/raw/master/screen.png)
 
 License
 -------
