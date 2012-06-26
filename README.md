@@ -16,14 +16,14 @@ Java Applet Version
 -------------------
 
 The original version was developed by Stephan Uhlmann <su@su2.info>, back in the good old Applet days around 2001/2002.
-Everything (story, idea, design, code, graphics) by Stephan. Homepage: http://su2.info/fishworld/
+Everything (story, idea, design, code, graphics) by Stephan. Live Demo on http://www.su2.info/fishworld/fishworld.html
 
 
 JavaScript/Canvas Version
 ------------------------
 
  This is straigth forward JavaScript port by Sandy Meier (late 2011) <smeier@kdevelop.org>.
- Don't aspect fancy JavaScript coding style, repsonsive design principle oder touch awarness. Just a 1:1 port.
+ Don't aspect fancy JavaScript coding style, repsonsive design principle oder touch awarness. Just a 1:1 port. Live Demo
 
 Screenshot
 ----------
