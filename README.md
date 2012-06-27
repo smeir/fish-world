@@ -23,7 +23,9 @@ JavaScript/Canvas Version
 ------------------------
 
  This is straigth forward JavaScript port by Sandy Meier (late 2011) <smeier@kdevelop.org>.
- Don't aspect fancy JavaScript coding style, repsonsive design principle oder touch awarness. Just a 1:1 port. Live Demo
+ Don't aspect fancy JavaScript coding style, repsonsive design principle oder touch awarness. Just a 1:1 port. 
+
+[Play online!](http://smeir.github.com/FishWorld/)
 
 Screenshot
 ----------
