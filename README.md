@@ -22,7 +22,7 @@ Everything (story, idea, design, code, graphics) by Stephan. Live Demo on http:/
 JavaScript/Canvas Version
 ------------------------
 
- This is straigth forward JavaScript port by Sandy Meier (late 2011) <smeier@kdevelop.org>.
+ This is straigth forward JavaScript port by Sandy Meier (late 2011) <smeier@tapnic.com>.
  Don't aspect fancy JavaScript coding style, repsonsive design principle oder touch awarness. Just a 1:1 port. 
 
 [Play online!](http://smeir.github.com/FishWorld/)
